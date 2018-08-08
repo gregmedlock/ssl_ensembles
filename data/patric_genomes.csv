@@ -1,6 +1,6 @@
 Species_name,PATRIC_GENOME_ID,CONTIGS,Conditions_over_threshold
 Staphylococcus aureus,93061.5,1,41
-Staphylococcus epidermidis,176280.1,1,19
+Staphylococcus epidermidis,176280.10,1,19
 Corynebacterium efficiens,196164.6,3,11
 Haemophilus influenzae,71421.8,1,14
 Ralstonia solanacearum,267608.8,2,29
@@ -8,7 +8,7 @@ Staphylococcus haemolyticus,279808.8,4,37
 Bacillus pumilus,1408.93,1,46
 Corynebacterium glutamicum,196627.13,1,24
 Streptococcus mitis,365659.3,1,20
-Flavobacterium johnsoniae,376686.1,1,28
+Flavobacterium johnsoniae,376686.10,1,28
 Pseudomonas stutzeri,96563.4,1,27
 Aeromonas salmonicida,382245.13,6,21
 Pseudomonas putida,160488.4,1,31
@@ -19,7 +19,7 @@ Ralstonia pickettii,402626.5,3,34
 Brachybacterium faecium,446465.5,1,48
 Haemophilus parasuis,557723.8,1,25
 Kytococcus sedentarius,478801.5,1,4
-Neisseria gonorrhoeae,242231.1,1,8
+Neisseria gonorrhoeae,242231.10,1,8
 Chryseobacterium gleum,525257.3,30,33
 Sphingobacterium spiritivorum,525372.3,40,34
 Gordonia bronchialis,526226.15,1,14
