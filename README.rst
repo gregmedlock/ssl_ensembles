@@ -10,6 +10,10 @@ Files: jupyter notebook for creation of GENREs from PATRIC - bin/generate_recons
 
 Second, biolog data from Plata, et al. 2015, are imported and thresholded as in the original paper's analysis at >10 relative colorimetric units from their tetrazolium dye assay. We filter organisms for inclusion by requiring growth on at least 20 carbon sources. Then we convert metabolite identifiers to be consistent with modelSEED identifiers.
 
+Files: jupyter notebook for the tasks described above - bin/biolog_processing.ipynb
+
+Third, we use the thresholded biolog data to generate an ensemble through iterative gapfilling using a continuous version of the  traditional growmatch approach, which is an MILP problem that adds a minimal number of reactions to allow flux through the biomass reaction. In our formulation, the objective is to minimize the sum of flux through reactions in the universal reaction bag while maintaining flux above some threshold in the original objective (here, biomass).
+
 Dependencies
 ~~~~~~~~~~~~
 cobrapy >= 0.13
