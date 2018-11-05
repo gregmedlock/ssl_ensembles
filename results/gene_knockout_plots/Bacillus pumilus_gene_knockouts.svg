@@ -26,8 +26,8 @@ L 28.8 27.8
 z
 " style="fill:#ffffff;"/>
    </g>
-   <g clip-path="url(#pdb88a6e5b4)">
-    <image height="304" id="imaged53f60f1b9" transform="scale(1 -1)translate(0 -304)" width="173" x="28.8" xlink:href="data:image/png;base64,
+   <g clip-path="url(#pa715708f97)">
+    <image height="304" id="imagedc093efad3" transform="scale(1 -1)translate(0 -304)" width="173" x="28.8" xlink:href="data:image/png;base64,
 iVBORw0KGgoAAAANSUhEUgAAAK0AAAEwCAYAAADFIPFqAAAABHNCSVQICAgIfAhkiAAABUJJREFUeJzt3cGu3DYMhlFPkfd/5dv9XQycQIL9ieesi7ZA/mFoirI/13X9XDf8/Nz6x2C7P6vD+Pl8lv77/oYf1jutzsTnx580Mf89/T8Af+tz3exp71K42e3P3X9QGHkL7QE5pgdst3x6cJnTErO80sJutx/E7tIesJv2gBztATnaA3LMaclZXmmfrHarq7zK/U7LQ/skIZth+fRAT8tu9mnJsZpIjoUZtnPdhvEc45LjGJeco0Zeq/lBr/FYT3v3P+wPmt1cbCTHwgw5etov/O3yTua05GgPyDmqPfCXxgzaA3Ic45KjpyXH7gE5Ki05QkuO0JJz1BVy7z2Y4ajQCtkMbuOSs3wJ/El+MO/kNi7jmR6QI7TkCC05R428zGlnuB1a0wP+lekB42kPvvB7fidft2E77QHjGXmRI7TkCC05QkuO0JJjTvuFwco7HRVaIZvBa5HI8YYZchzjst3qTCxfTRQcfludieVft1Fp2W15eyA47KanZbvlPa1eld1WZ8c+LTl2D8gRWnKElhwfv2M7FxsZz5yWHCdi5HgQI+eomwuu28zgQyHkLL+54EGM34y8GM/FRnJcbCTHyIsc7QE5Ki05Rl5s544Y4+lpyTHyIkelJUelJcfIixzXbchx3YYc7QE52gNyvAmcHO0BOctfXw+7qbTkCC053ppIzu3dg8L0wBtmZvDeA3L0tOTYpyXHPi05Ki05Ki055rTkqLTk6GnJUWnJcbhAjq/bfOFvoXc6KrRCNoMHMXL0tOSYHpCj0pIjtOQsf1nHk7Q67+Qzo4xn5EWOnpYcIy9ytAfk+GIjOV5fT44HMXKOWk20TzuDSkvOUZVWZZzhqNBqD2Y4KrRCNoOelhwnYuSotOT4zCg5trzYbnUhO2p6wDstX8q6PIgRoz0g53alvcuPgN1UWnLMackRWnJMD8hRacm5/SB291RDRWY37QE5Rl7kqLTkqLTkmB6QI7Tk6GnJ0dOSo9KSo9KSo9KSc1Sl9S6vGY66jStkM5jTkiO05HgtEtv5Ni7jLf8Kud8Au90OrTDyFh7EyBFacoSWnKNOxBzjznBUaIVsBu0BOUJLjn1aco7ap2WG5ce4T/IDnOGo6QHvZMuL8UwPyLEETs7y0AoOu1kCJ8cSODl6WrZbnQnTA3LMaclRackRWnKElhyhJUdoyRFacly3Icd1G3K0B+RoD8jRHpCjPSBHe0CO9oAc7QE5QkuOi43kHPUg5k3gM7huQ85RlZYZXCEnR3tAzlHvp/UgNoOelhyHC+TYPSBHe0COSkuOnpYcoSVHaMnxIEbO7Qcx+7S8hQ+FkKOnJUdoyRFacqwmfqGPfyeVlpyjrpCrjDM4XCBn+ZaXi438tjoTR7UHvNPywnhpD4ixe0CO3QNyvGGGnOWhfTI4TsRmuP0gdpc/aHZzG5ecoyqt9mAGJ2JstzoTXvVJjmNcco46XNDTznDUzQUhm8HCDDnmtOS4I0aO0JKzfOT1JK3OOy0/XLg8iBHjQYwcPS05QkuO0JIjtOQctXtgYWaGo0IrZDNoD8gRWnKElpyjbuMyw1HXbZjB7gE5elpyhJYcD2LkqLTkmB6Qc9T0wMLMDBZmyDkqtCrtDEeFVshm8KpPcpZPD7wJnN0cLpBz1MiLGbwWiRxft2G71Zk4auTFOy0vjJf2gBhbXuQILTnLe1oPYuzmM6PkHDU9sOU1w1GhFbIZPIiRI7TkOFwgx5YXOdoDcoSWHKElxzEu2y3fp3XLlt2W79PaPaDGnJac23NabQRv4VWf5JgekGNOS46RFzn/A32mQzrjQvUqAAAAAElFTkSuQmCC" y="-27.2"/>
    </g>
    <g id="matplotlib.axis_1">
@@ -446,7 +446,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pdb88a6e5b4">
+  <clipPath id="pa715708f97">
    <rect height="303.4" width="172.9" x="28.8" y="27.8"/>
   </clipPath>
  </defs>
