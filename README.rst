@@ -4,15 +4,15 @@ Semi-supervised learning on ensembles of genome-scale metabolic networks.
 Project summary
 ~~~~~~~~~~~~~~~
 
-First, draft GENREs are created for each organism using mackinac to access the ModelSEED implementation available through PATRIC. The GENREs returned are gapfilled on complete media using ModelSEED's modified version of fastGapFill (a continuous optimization problem that is faster than MILP formulations). We convert the GENRE to a cobrapy model on the PATRIC server, then download the model and save to our workspace. We also save the gapfill solution for each GENRE. Due to connectivity issues with PATRIC, the notebook may need to be rerun multiple times. PATRIC goes down intermittently, and this script will fail with HTTP errors when that is the case.
+This repository holds all code and data for "Guiding the refinement of biochemical knowledgebases with ensembles of metabolic networks and semi-supervised learning", Medlock & Papin, bioRxiv 2018, currently in preparation for resubmission.
 
-Files: jupyter notebook for creation of GENREs from PATRIC - bin/generate_recons.ipynb
+Our goal was to develop a system for guiding the curation of genome-scale metabolic network reconstructions (GENREs) by harnessing the variability across ensembles of GENREs. We generated ensembles of GENREs consistent with experimental data, performed gene essentiality simulations with those ensembles, and applied machine learning to identify differences between networks that are associated with differences in simulated gene essentiality. We applied this approach to 29 bacterial species with suitable genomic and phenotypic data available, generating prioritized curation targets for all species. We summarize these findings across all 29 species to identify reactions and subsystems in the biochemical database used in the study that, if curated, would substantially reduce uncertainty in gene essentiality simulations for many organisms.
 
-Second, biolog data from Plata, et al. 2015, are imported and thresholded as in the original paper's analysis at >10 relative colorimetric units from their tetrazolium dye assay. We filter organisms for inclusion by requiring growth on at least 20 carbon sources. Then we convert metabolite identifiers to be consistent with modelSEED identifiers.
+Data sources
+~~~~~~~~~~~~
 
-Files: jupyter notebook for the tasks described above - bin/biolog_processing.ipynb
-
-Third, we use the thresholded biolog data to generate an ensemble through iterative gapfilling using a continuous version of the  traditional growmatch approach, which is an MILP problem that adds a minimal number of reactions to allow flux through the biomass reaction. In our formulation, the objective is to minimize the sum of flux through reactions in the universal reaction bag while maintaining flux above some threshold in the original objective (here, biomass).
+*ModelSEED data*
+ModelSEED reaction subsystem assignments: https://github.com/ModelSEED/ModelSEEDDatabase/blob/dev/Biochemistry/Pathways/ModelSEED_Subsystems.tsv
 
 Dependencies
 ~~~~~~~~~~~~
