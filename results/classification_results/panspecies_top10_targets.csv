@@ -1,44 +1,14 @@
 ,cluster ratio,fractional difference,fractional importance,species,reaction string
-rxn00916,1.0,0.5374771480804388,0.1789504378944248,Staphylococcus aureus,ATP + NH3 + XMP <=> PPi + AMP + 3.0 H+ + GMP
-rxn00917,1.0,0.4442413162705667,0.1719336452790886,Staphylococcus aureus,H2O + ATP + L-Glutamine + XMP --> PPi + AMP + L-Glutamate + 3.0 H+ + GMP
-rxn38855,0.8327239488117002,0.5551492992078001,0.11772151458658965,Staphylococcus aureus,H2O + ATP --> PPi + 2.0 H+ + dGMP
-rxn38903,0.7515539305301645,0.18249653942233574,0.030368091169558388,Staphylococcus aureus,H2O + ATP --> Phosphate + H+ + dGDP
-rxn02928,0.4345295271146601,0.3961604739478026,0.02745241452908996,Staphylococcus aureus,NAD + tetrahydrodipicolinate <=> NADH + H+ + Dihydrodipicolinate
-rxn01361,0.8336114442648311,0.3870883123277278,0.027090723712286126,Staphylococcus aureus,NAD + S-Dihydroorotate <=> NADH + H+ + Orotate
-rxn00957,0.8184202227422862,0.3979886275127022,0.02696793270789063,Staphylococcus aureus,H2O + NAD + p-Hydroxybenzaldehyde <=> NADH + 2.0 H+ + 4-Hydroxybenzoate
-rxn00958,0.4345295271146601,0.3961604739478026,0.02554495283032364,Staphylococcus aureus,H2O + NADP + p-Hydroxybenzaldehyde <=> NADPH + 2.0 H+ + 4-Hydroxybenzoate
-rxn02929,0.7965375316368694,0.3975406693544156,0.021506675255845417,Staphylococcus aureus,NADP + tetrahydrodipicolinate <=> NADPH + H+ + Dihydrodipicolinate
-rxn01547,0.6513037621475993,0.027317376337316526,0.009717905233943872,Staphylococcus aureus,H2O + H+ + Guanosine <=> NH3 + Xanthosine
-rxn00541,1.0,0.9533333333333334,0.2762244306637863,Corynebacterium efficiens,L-Threonine <=> Glycine + Acetaldehyde
-rxn04783,1.0,0.6733333333333333,0.12132568846201053,Corynebacterium efficiens,ATP + Formate + GAR --> ADP + Phosphate + H+ + N-Formyl-GAR
-rxn00429,1.0,0.52,0.10356867055770223,Corynebacterium efficiens,H2O + NAD + Formaldehyde <=> NADH + Formate + 2.0 H+
-rxn01825,1.0,0.4933333333333334,0.07868425496468986,Corynebacterium efficiens,O2 + Homogentisate <=> H+ + 4-Maleylacetoacetate
-rxn02276,1.0,0.4933333333333334,0.07868425496468986,Corynebacterium efficiens,4-Maleylacetoacetate <=> Fumarylacetoacetate
-rxn00993,1.0,0.4933333333333334,0.07868425496468986,Corynebacterium efficiens,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
-rxn00690,1.0,0.4933333333333334,0.0679369494818103,Corynebacterium efficiens,ATP + Formate + Tetrahydrofolate <=> ADP + Phosphate + 10-Formyltetrahydrofolate
-rxn05488,1.0,0.44,0.05866106849098225,Corynebacterium efficiens,Acetate + H+ <=> Acetate + H+
-rxn00688,1.0,0.38666666666666666,0.05393120630872945,Corynebacterium efficiens,H2O + NADP + 10-Formyltetrahydrofolate <=> NADPH + CO2 + H+ + Tetrahydrofolate
-rxn01418,0.746606334841629,0.746606334841629,0.039551152383452484,Corynebacterium efficiens,NAD + CoA + H+ + 2-Oxoadipate <=> NADH + CO2 + Glutaryl-CoA
-rxn00958,1.0,0.5130315500685871,0.1574446069032603,Ralstonia pickettii,H2O + NADP + p-Hydroxybenzaldehyde <=> NADPH + 2.0 H+ + 4-Hydroxybenzoate
-rxn00957,1.0,0.4609053497942387,0.12626684691566756,Ralstonia pickettii,H2O + NAD + p-Hydroxybenzaldehyde <=> NADH + 2.0 H+ + 4-Hydroxybenzoate
-rxn01934,0.4334705075445816,0.4334705075445816,0.10066537016705172,Ralstonia pickettii,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
-rxn11674,0.4334705075445816,0.4334705075445816,0.10066537016705172,Ralstonia pickettii,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
-rxn08131,0.386502533386729,0.38544216978347323,0.09869796043533684,Ralstonia pickettii,H2O + NAD + AIR <=> NADH + 2.0 Formate + 4.0 H+ + 4-Amino-5-phosphomethyl-2-methylpyrimidine
-rxn00521,1.0,0.41975308641975306,0.06436832873038738,Ralstonia pickettii,H2O + L-Tyrosine <=> NH3 + Pyruvate + Phenol
-rxn00993,0.39338345173230327,0.2971123960341025,0.057164822048716125,Ralstonia pickettii,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
-rxn02276,0.39338345173230327,0.2971123960341025,0.057164822048716125,Ralstonia pickettii,4-Maleylacetoacetate <=> Fumarylacetoacetate
-rxn01990,1.0,0.25925925925925924,0.02674475185418052,Ralstonia pickettii,5-Dehydro-4-deoxy-D-glucarate <=> Pyruvate + Tartronate semialdehyde
-rxn05938,0.769281826629497,0.20124672257818066,0.01964865198837661,Ralstonia pickettii,CO2 + Acetyl-CoA + H+ + Reducedferredoxin <=> CoA + Pyruvate + Oxidizedferredoxin
-rxn12571,1.0,0.56353591160221,0.269885394359846,Bacillus pumilus,H+ + Quinate <=> H+ + Quinate
-rxn12298,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,NAD + Saligenin <=> NADH + H+ + Salicylaldehyde
-rxn23629,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
-rxn04455,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,Chorismate <=> Pyruvate + SALC
-rxn01919,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,O2 + Gentisate <=> H+ + Maleylpyruvate
-rxn07524,1.0,0.2983425414364641,0.11425570916353872,Bacillus pumilus,NADPH + O2 + H+ + SALC <=> H2O + NADP + Gentisate
-rxn01363,1.0,0.17679558011049726,0.0636942982963777,Bacillus pumilus,NAD + Quinate <=> NADH + H+ + 5-Dehydroquinate
-rxn07523,1.0,0.17679558011049726,0.056991409316933736,Bacillus pumilus,NADH + O2 + H+ + SALC <=> H2O + NAD + Gentisate
-rxn35596,1.0,0.13812154696132595,0.05355578240306391,Bacillus pumilus,Quinate + Ubiquinone-8 --> 5-Dehydroquinate + Ubiquinol-8
-rxn04661,1.0,0.13812154696132595,0.04903089658678342,Bacillus pumilus,NADP + Quinate <=> NADPH + H+ + 5-Dehydroquinate
+rxn00213,1.0,0.476890756302521,0.18340339847172785,Chryseobacterium gleum,UTP + Glucose-1-phosphate <=> PPi + UDP-glucose
+rxn06822,0.5846800258564965,0.295752542262041,0.0662648758762162,Chryseobacterium gleum,UDP-glucose + Cyanohydrin <=> UDP + Cyanoglycoside
+rxn09673,1.0,0.22058823529411764,0.06602062242567991,Chryseobacterium gleum,H+ + Maltose <=> H+ + Maltose
+rxn09398,1.0,0.13865546218487396,0.04933943687816385,Chryseobacterium gleum,UDP-glucose + glycogen(n-1) <=> UDP + Glycogen
+rxn05170,1.0,0.1407563025210084,0.038977454592906836,Chryseobacterium gleum,H2O + ATP + Maltose --> ADP + Phosphate + H+ + Maltose
+rxn00701,1.0,0.10294117647058824,0.0358735194706331,Chryseobacterium gleum,UDP-glucose + D-Galactose 1-phosphate <=> UDP-galactose + Glucose-1-phosphate
+rxn06402,0.669083762537273,0.16141320341366122,0.03524005220639048,Chryseobacterium gleum,UDP-glucose + ROH <=> UDP + D-Glucoside
+rxn00553,0.5979349186483105,0.10934996566720073,0.027218549040857663,Chryseobacterium gleum,UDP-glucose + D-fructose-6-phosphate <=> UDP + 6-Phosphosucrose
+rxn38996,1.0,0.07142857142857142,0.023706922194597583,Chryseobacterium gleum,H2O + UDP-galactose --> 2.0 H+ + Glucose-1-phosphate + UMP
+rxn18456,0.5125947163628918,0.10230356734133345,0.01345846830646276,Chryseobacterium gleum,H2O + ATP + beta D-Galactose --> ADP + Phosphate + H+ + beta D-Galactose
 rxn09016,0.7265745007680491,0.7265745007680491,0.25220034944111785,Pseudomonas mendocina,H2O + GTP <=> Guanosine + Triphosphate
 rxn10484,0.9448823564274285,0.5210641566166618,0.08508583910165846,Pseudomonas mendocina,"NADPH + NH3 + 2.0 H+ + tetrahydrodipicolinate <=> NADP + meso-2,6-Diaminopimelate"
 rxn01644,0.9448823564274285,0.5210641566166618,0.08508583910165846,Pseudomonas mendocina,Pyruvate + L-Aspartate4-semialdehyde --> 2.0 H2O + H+ + Dihydrodipicolinate
@@ -49,106 +19,16 @@ rxn02831,0.8783571677711894,0.32921528254404037,0.04081018164836473,Pseudomonas 
 rxn24330,0.34494212725155815,0.3292152825440403,0.03921688176247925,Pseudomonas mendocina,ATP + CoA + Succinylbenzoate <=> ADP + Phosphate + Succinylbenzoyl-CoA
 rxn00916,0.930162703379224,0.24289963068274673,0.03882185064804213,Pseudomonas mendocina,ATP + NH3 + XMP <=> PPi + AMP + 3.0 H+ + GMP
 rxn07429,0.5909977494373593,0.38621433473869987,0.03152106325909832,Pseudomonas mendocina,H2O + O2 + L-Lysine <=> NH3 + H2O2 + 2-Aminoadipate 6-semialdehyde
-rxn00553,1.0,0.43733333333333335,0.15259967214326273,Staphylococcus haemolyticus,UDP-glucose + D-fructose-6-phosphate <=> UDP + 6-Phosphosucrose
-rxn00214,1.0,0.6186666666666667,0.1087034197395411,Staphylococcus haemolyticus,UDP-glucose <=> UDP-galactose
-rxn02094,0.9504587519568793,0.6158972712680578,0.09330007406810124,Staphylococcus haemolyticus,ATP + D-Tagatose <=> ADP + H+ + D-Tagatose 6-phosphate
-rxn02095,0.9504587519568793,0.6158972712680578,0.09330007406810124,Staphylococcus haemolyticus,NAD + Dulcose <=> NADH + H+ + D-Tagatose
-rxn18456,0.9532484533029968,0.5236511503477795,0.06271461486114481,Staphylococcus haemolyticus,H2O + ATP + beta D-Galactose --> ADP + Phosphate + H+ + beta D-Galactose
-rxn15132,0.9428170144462279,0.5028357410379882,0.062228722139314574,Staphylococcus haemolyticus,H2O + O2 + beta D-Galactose --> H2O2 + H+ + D-Galactonate
-rxn02429,0.9428170144462279,0.5028357410379882,0.062228722139314574,Staphylococcus haemolyticus,ATP + 2-Dehydro-3-deoxy-D-galactonate <=> ADP + H+ + 2-Dehydro-3-deoxy-D-galactonate 6-phosphate
-rxn02173,0.9428170144462279,0.5028357410379882,0.062228722139314574,Staphylococcus haemolyticus,D-Galactonate --> H2O + 2-Dehydro-3-deoxy-D-galactonate
-rxn15122,0.9596647416061292,0.49646655965757086,0.06093661763148831,Staphylococcus haemolyticus,NADH + H+ + beta D-Galactose <=> NAD + Dulcose
-rxn02409,1.0,0.32,0.039576501243643716,Staphylococcus haemolyticus,H2O + LacCer <=> beta D-Galactose + Glucocerebroside
-rxn04794,0.9801427578156395,0.7723386395508397,0.11358999085216415,Neisseria meningitidis,CoA + 2-Oxobutyrate <=> Formate + Propionyl-CoA
-rxn09402,0.9803192666350561,0.7794057773600269,0.09872661409745792,Neisseria meningitidis,2-Methylcitrate <=> Pyruvate + Succinate
-rxn08688,0.9732813857173429,0.777249445837878,0.09039536400907468,Neisseria meningitidis,2.0 O2 + H2S <=> Sulfate + H+
-rxn00949,0.9536877352433943,0.761602219664336,0.08843652352163195,Neisseria meningitidis,H2O + Homocysteine <=> NH3 + H+ + 2-Oxobutyrate + H2S
-rxn13143,1.0,0.1060070671378092,0.05034461528773265,Neisseria meningitidis,H2O + NAD + L-Threonine <=> NADH + Acetate + Glycine + 2.0 H+
-rxn00128,1.0,0.4840989399293286,0.044304636230335516,Neisseria meningitidis,S-Adenosyl-L-methionine <=> H+ + 5-Methylthioadenosine + 1-Aminocyclopropane-1-carboxylate
-rxn00738,1.0,0.4840989399293286,0.044304636230335516,Neisseria meningitidis,H2O + 1-Aminocyclopropane-1-carboxylate <=> NH3 + 2-Oxobutyrate
-rxn13085,0.9862136830413687,0.5087886845372432,0.04217383488980155,Neisseria meningitidis,S-Adenosyl-L-methionine + Putrescine <=> CO2 + 5-Methylthioadenosine + Spermidine
-rxn09458,1.0,0.4770318021201414,0.03338883830692692,Neisseria meningitidis,NADPH + O2 + 2.0 H+ + strcoa <=> 2.0 H2O + NADP + Octadecenoyl-CoA
-rxn09468,1.0,0.4770318021201414,0.03338883830692692,Neisseria meningitidis,8.0 H2O + 8.0 NAD + NADPH + 8.0 O2 + 8.0 CoA + Octadecenoyl-CoA <=> 8.0 NADH + NADP + 9.0 Acetyl-CoA + 8.0 H2O2 + 8.0 H+
-rxn01640,1.0,0.5635593220338984,0.2234055672363101,Ralstonia solanacearum,H2O + N-Formimino-L-glutamate <=> NH3 + N-Formyl-L-glutamate
-rxn00688,1.0,0.4152542372881356,0.21456541514215194,Ralstonia solanacearum,H2O + NADP + 10-Formyltetrahydrofolate <=> NADPH + CO2 + H+ + Tetrahydrofolate
-rxn05299,1.0,0.3559322033898305,0.12772518675493286,Ralstonia solanacearum,H+ + L-Histidine <=> H+ + L-Histidine
-rxn05164,1.0,0.21186440677966098,0.08019043941781659,Ralstonia solanacearum,H2O + ATP + L-Histidine --> ADP + Phosphate + H+ + L-Histidine
-rxn10932,1.0,0.11864406779661014,0.036604478041400816,Ralstonia solanacearum,L-Histidine <=> L-Histidine
-rxn04783,1.0,0.0423728813559322,0.011959067521880385,Ralstonia solanacearum,ATP + Formate + GAR --> ADP + Phosphate + H+ + N-Formyl-GAR
-rxn00690,0.9479028697571744,0.024099225502301046,0.00625811360427098,Ralstonia solanacearum,ATP + Formate + Tetrahydrofolate <=> ADP + Phosphate + 10-Formyltetrahydrofolate
-rxn07429,0.118671642339792,0.07246043326972729,0.0062376088024810135,Ralstonia solanacearum,H2O + O2 + L-Lysine <=> NH3 + H2O2 + 2-Aminoadipate 6-semialdehyde
-rxn00521,0.1412560948984789,0.05446739252441346,0.00553596473420046,Ralstonia solanacearum,H2O + L-Tyrosine <=> NH3 + Pyruvate + Phenol
-rxn34028,0.10938715442026714,0.05840161634302399,0.0052600660693907396,Ralstonia solanacearum,0.5 O2 + H+ + N-Carbamoyl-L-aspartate --> 2.0 H2O + Orotate
-rxn00958,1.0,0.5833333333333334,0.3105643288355716,Pseudomonas putida,H2O + NADP + p-Hydroxybenzaldehyde <=> NADPH + 2.0 H+ + 4-Hydroxybenzoate
-rxn00957,1.0,0.29444444444444445,0.1518744377412234,Pseudomonas putida,H2O + NAD + p-Hydroxybenzaldehyde <=> NADH + 2.0 H+ + 4-Hydroxybenzoate
-rxn00521,1.0,0.2740740740740741,0.11112132522412048,Pseudomonas putida,H2O + L-Tyrosine <=> NH3 + Pyruvate + Phenol
-rxn02276,1.0,0.30368098159509205,0.06408667284578537,Pseudomonas putida,4-Maleylacetoacetate <=> Fumarylacetoacetate
-rxn00993,1.0,0.30368098159509205,0.06408667284578537,Pseudomonas putida,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
-rxn10559,1.0,0.14074074074074075,0.027609442930011347,Pseudomonas putida,H+ + 4-Hydroxyphenylacetate <=> H+ + 4-Hydroxyphenylacetate
-rxn00033,1.0,0.14074074074074075,0.027609442930011347,Pseudomonas putida,O2 + 2.0 p-hydroxyphenylpyruvate <=> 2.0 CO2 + 2.0 4-Hydroxyphenylacetate
-rxn01990,0.7971704019030925,0.14467166553056124,0.01906301506632226,Pseudomonas putida,5-Dehydro-4-deoxy-D-glucarate <=> Pyruvate + Tartronate semialdehyde
-rxn01418,0.9176767676767676,0.18578732106339466,0.018446054226407438,Pseudomonas putida,NAD + CoA + H+ + 2-Oxoadipate <=> NADH + CO2 + Glutaryl-CoA
-rxn01423,0.9176767676767676,0.18578732106339466,0.018446054226407438,Pseudomonas putida,2-Oxoglutarate + L-2-Aminoadipate <=> L-Glutamate + 2-Oxoadipate
-rxn00541,1.0,0.3885350318471338,0.11481870891528795,Haemophilus parasuis,L-Threonine <=> Glycine + Acetaldehyde
-rxn15500,1.0,0.5796178343949044,0.10542393459204198,Haemophilus parasuis,O-Phospho-L-homoserine + Selenocysteine <=> Phosphate + Selenocystathionine
-rxn03374,1.0,0.5796178343949044,0.10542393459204198,Haemophilus parasuis,H2O + Selenocystathionine <=> NH3 + 2-Oxobutyrate + Selenocysteine
-rxn00668,0.9132767804300651,0.538077084011344,0.07109051136012959,Haemophilus parasuis,NADPH + Acrylyl-CoA <=> NADP + Propionyl-CoA
-rxn19118,0.8690302398331595,0.34871914082477107,0.058976233094886074,Haemophilus parasuis,H2O + O2 + Acetaldehyde --> H2O2 + Acetate + H+
-rxn12522,0.8066772453189464,0.5908782370170625,0.055740384872528574,Haemophilus parasuis,H+ + 2-Oxobutyrate <=> H+ + 2-Oxobutyrate
-rxn00499,0.8522531217952585,0.32841601190199454,0.052635989948422654,Haemophilus parasuis,NAD + L-Lactate <=> NADH + Pyruvate + H+
-rxn10030,0.8764806154115128,0.46615370310102744,0.04576630650038219,Haemophilus parasuis,15.0 NADPH + Acetyl-CoA + 22.0 H+ + 8.0 Malonyl-CoA <=> 7.0 H2O + 15.0 NADP + 9.0 CoA + 8.0 CO2 + octadecenoate
-rxn00663,0.9686568095327219,0.36093263285136445,0.03552359240896912,Haemophilus parasuis,CoA + 2.0 H+ + beta-Alanine <=> H2O + beta-Alanyl-CoA
-rxn21286,0.9228445472284454,0.2968385327072388,0.027089484787161413,Haemophilus parasuis,2.0 H2O + Acrylyl-CoA --> CoA + 2.0 H+ + Hydracrylic acid
-rxn00663,0.9970234824339671,0.9939557178726317,0.16916839678414855,Streptococcus vestibularis,CoA + 2.0 H+ + beta-Alanine <=> H2O + beta-Alanyl-CoA
-rxn15500,1.0,0.9907692307692308,0.14580554868722612,Streptococcus vestibularis,O-Phospho-L-homoserine + Selenocysteine <=> Phosphate + Selenocystathionine
-rxn03374,1.0,0.9907692307692308,0.14580554868722612,Streptococcus vestibularis,H2O + Selenocystathionine <=> NH3 + 2-Oxobutyrate + Selenocysteine
-rxn00668,0.9969577549167361,0.9724172563341703,0.12570318523660198,Streptococcus vestibularis,NADPH + Acrylyl-CoA <=> NADP + Propionyl-CoA
-rxn12522,0.9866468842729971,0.9866468842729971,0.0952973095480576,Streptococcus vestibularis,H+ + 2-Oxobutyrate <=> H+ + 2-Oxobutyrate
-rxn00949,0.9866468842729971,0.9866468842729971,0.0952973095480576,Streptococcus vestibularis,H2O + Homocysteine <=> NH3 + H+ + 2-Oxobutyrate + H2S
-rxn00679,0.9964413590723444,0.8308787947957087,0.08302009154283732,Streptococcus vestibularis,H2O + Oxaloacetate + Propionyl-CoA --> CoA + H+ + 2-Methylcitrate
-rxn09402,0.9964413590723444,0.8308787947957087,0.08302009154283732,Streptococcus vestibularis,2-Methylcitrate <=> Pyruvate + Succinate
-rxn00128,0.996651417738213,0.8831864871034011,0.08110587929783653,Streptococcus vestibularis,S-Adenosyl-L-methionine <=> H+ + 5-Methylthioadenosine + 1-Aminocyclopropane-1-carboxylate
-rxn00738,0.996651417738213,0.8831864871034011,0.08110587929783653,Streptococcus vestibularis,H2O + 1-Aminocyclopropane-1-carboxylate <=> NH3 + 2-Oxobutyrate
-rxn05693,1.0,0.4740853658536585,0.13135178666545064,Streptococcus equinus,H+ + Stachyose <=> H+ + Stachyose
-rxn18456,1.0,0.3856707317073171,0.09463009816004188,Streptococcus equinus,H2O + ATP + beta D-Galactose --> ADP + Phosphate + H+ + beta D-Galactose
-rxn05643,1.0,0.3506097560975609,0.0912940503345886,Streptococcus equinus,H+ + Melitose <=> H+ + Melitose
-rxn05612,1.0,0.34603658536585363,0.08456413184633793,Streptococcus equinus,H+ + Melibiose <=> H+ + Melibiose
-rxn18574,1.0,0.15853658536585366,0.03825761458468679,Streptococcus equinus,H2O + ATP + Melibiose --> ADP + Phosphate + H+ + Melibiose
-rxn29080,1.0,0.13414634146341464,0.027823035372029882,Streptococcus equinus,H+ + beta D-Galactose <=> H+ + beta D-Galactose
-rxn09180,0.6680216802168022,0.32208188153310113,0.02558524927402765,Streptococcus equinus,3.0 Fumarate + ProtoporphyrinogenIX <=> 3.0 Succinate + Protoporphyrin
-rxn01369,0.6680216802168022,0.32208188153310113,0.02558524927402765,Streptococcus equinus,O2 + 2-Oxoglutarate + Deoxyuridine <=> CO2 + Succinate + Uridine
-rxn18495,1.0,0.12347560975609755,0.02438562357507595,Streptococcus equinus,H2O + ATP + Melitose --> ADP + Phosphate + H+ + Melitose
-rxn29063,0.7297742626462349,0.3215011614401858,0.021733623063966048,Streptococcus equinus,Phosphoenolpyruvate + beta-Cellobiose <=> Pyruvate + cellobiose 6-phoshate
-rxn11676,1.0,0.9410112359550562,0.2507839524354186,Streptococcus mitis,H2O + NH3 + Acetylphosphate + trdox <=> Phosphate + Glycine + H+ + trdrd
-rxn10183,0.9976628151260504,0.6669768258426966,0.1672165065540906,Streptococcus mitis,Phosphoenolpyruvate + N-Acetyl-D-mannosamine <=> Pyruvate + N-Acetylmannosamine 6-phosphate
-rxn05486,0.9926324503311258,0.4210323033707865,0.09119661948574202,Streptococcus mitis,H+ + N-Acetyl-D-mannosamine <=> H+ + N-Acetyl-D-mannosamine
-rxn01014,1.0,0.3314606741573033,0.04226528849195993,Streptococcus mitis,H+ + Hydroxypyruvate <=> CO2 + Glycolaldehyde
-rxn00168,1.0,0.19382022471910115,0.02614297654300616,Streptococcus mitis,Pyruvate + H+ <=> CO2 + Acetaldehyde
-rxn20627,0.38944244223023106,0.3225070224719101,0.023042534875301217,Streptococcus mitis,3.0 O2 + ProtoporphyrinogenIX <=> 3.0 H2O2 + Protoporphyrin
-rxn00419,1.0,0.22191011235955052,0.021470893939278216,Streptococcus mitis,H2O + NAD + L-Serine <=> NADH + NH3 + H+ + Hydroxypyruvate
-rxn00979,0.26860654950542595,0.2455231741573034,0.017560663510593474,Streptococcus mitis,H2O + NAD + Glycolaldehyde --> NADH + 2.0 H+ + Glycolate
-rxn23730,0.26860654950542595,0.2455231741573034,0.017560663510593474,Streptococcus mitis,H+ + 6.0 Glycolate --> 4.0 H2O + 2.0 CO2 + Acetate + 2.0 Succinate
-rxn00680,0.6743902439024391,0.0776685393258427,0.014119166448849713,Streptococcus mitis,CoA + H+ + 2-Hydroxyglutarate <=> H2O + Glyoxalate + Propionyl-CoA
-rxn12060,1.0,0.99288256227758,0.2401755132018171,Neisseria flavescens,2.0 S-Adenosyl-L-methionine + XAN <=> 2.0 S-Adenosyl-homocysteine + 2.0 H+ + Theophylline
-rxn00693,0.8999849305064509,0.7685545859957732,0.09716064052525046,Neisseria flavescens,Homocysteine + 5-Methyltetrahydrofolate <=> L-Methionine + Tetrahydrofolate
-rxn10213,0.7000343856011577,0.6751221298858141,0.05630601615799311,Neisseria flavescens,"H+ + strcoa + 1-octadecanoyl-sn-glycerol 3-phosphate --> CoA + 1,2-dioctadecanoyl-sn-glycerol 3-phosphate"
-rxn10204,0.7000343856011577,0.6751221298858141,0.05630601615799311,Neisseria flavescens,Glycerol-3-phosphate + strcoa --> CoA + 1-octadecanoyl-sn-glycerol 3-phosphate
-rxn09468,0.7044331782992108,0.6994194190230598,0.0540520648364976,Neisseria flavescens,8.0 H2O + 8.0 NAD + NADPH + 8.0 O2 + 8.0 CoA + Octadecenoyl-CoA <=> 8.0 NADH + NADP + 9.0 Acetyl-CoA + 8.0 H2O2 + 8.0 H+
-rxn09458,0.7044331782992108,0.6994194190230598,0.0540520648364976,Neisseria flavescens,NADPH + O2 + 2.0 H+ + strcoa <=> 2.0 H2O + NADP + Octadecenoyl-CoA
-rxn07764,1.0,0.402135231316726,0.05294463356239159,Neisseria flavescens,NADPH + O2 + H+ + Theophylline <=> H2O + NADP + Formaldehyde + 3-Methylxanthine
-rxn01188,0.7550857672693556,0.6046060414078471,0.046250945026898985,Neisseria flavescens,3-Dehydroshikimate --> H2O + Protocatechuate
-rxn01934,0.7272940812857364,0.5823529120615327,0.04135351486539296,Neisseria flavescens,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
-rxn11674,0.7272940812857364,0.5823529120615327,0.04135351486539296,Neisseria flavescens,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
-rxn10484,0.9881956155143339,0.9881956155143339,0.21691015761166665,Pseudomonas stutzeri,"NADPH + NH3 + 2.0 H+ + tetrahydrodipicolinate <=> NADP + meso-2,6-Diaminopimelate"
-rxn01644,0.9881956155143339,0.9881956155143339,0.21691015761166665,Pseudomonas stutzeri,Pyruvate + L-Aspartate4-semialdehyde --> 2.0 H2O + H+ + Dihydrodipicolinate
-rxn01418,0.9975247524752475,0.9975247524752475,0.20470870860836884,Pseudomonas stutzeri,NAD + CoA + H+ + 2-Oxoadipate <=> NADH + CO2 + Glutaryl-CoA
-rxn01423,0.9975247524752475,0.9975247524752475,0.20470870860836884,Pseudomonas stutzeri,2-Oxoglutarate + L-2-Aminoadipate <=> L-Glutamate + 2-Oxoadipate
-rxn00993,0.7524752475247525,0.7524752475247525,0.10316130813400223,Pseudomonas stutzeri,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
-rxn02276,0.7524752475247525,0.7524752475247525,0.10316130813400223,Pseudomonas stutzeri,4-Maleylacetoacetate <=> Fumarylacetoacetate
-rxn02928,0.9914839797639123,0.5890003840181657,0.07120724527001872,Pseudomonas stutzeri,NAD + tetrahydrodipicolinate <=> NADH + H+ + Dihydrodipicolinate
-rxn00489,0.9689349887369689,0.6176347820279499,0.06834612250357246,Pseudomonas stutzeri,O2 + L-Phenylalanine <=> H2O + CO2 + 2-Phenylacetamide
-rxn00924,0.9689349887369689,0.6176347820279499,0.06834612250357246,Pseudomonas stutzeri,Acetate + H+ + Phenol <=> H2O + PACT
-rxn07429,0.9959340116837169,0.6062937238074566,0.06490957169595936,Pseudomonas stutzeri,H2O + O2 + L-Lysine <=> NH3 + H2O2 + 2-Aminoadipate 6-semialdehyde
+rxn00419,1.0,0.4810924369747899,0.16298805058920834,Neisseria mucosa,H2O + NAD + L-Serine <=> NADH + NH3 + H+ + Hydroxypyruvate
+rxn01072,0.35084033613445376,0.35084033613445376,0.09711095289379942,Neisseria mucosa,H2O + O2 + Aminoethanol <=> NH3 + H2O2 + Glycolaldehyde
+rxn00422,1.0,0.3130252100840336,0.0970537827647849,Neisseria mucosa,Pyruvate + L-Serine <=> L-Alanine + Hydroxypyruvate
+rxn25799,1.0,0.17016806722689076,0.050990874649951695,Neisseria mucosa,2-Oxoglutarate + L-Serine <=> L-Glutamate + Hydroxypyruvate
+rxn12522,0.4539569481237171,0.43489075630252094,0.04876973972044076,Neisseria mucosa,H+ + 2-Oxobutyrate <=> H+ + 2-Oxobutyrate
+rxn00777,1.0,0.19957983193277312,0.04811153284059669,Neisseria mucosa,ribose-5-phosphate <=> D-Ribulose5-phosphate
+rxn09402,0.455094537815126,0.43689075630252094,0.043438915411117066,Neisseria mucosa,2-Methylcitrate <=> Pyruvate + Succinate
+rxn00229,0.9166451612903226,0.41788235294117654,0.03842520237852184,Neisseria mucosa,O2 + L-Lactate <=> H2O + CO2 + Acetate
+rxn12585,0.4539569481237171,0.43489075630252094,0.03282523807634874,Neisseria mucosa,H+ + 2-Hydroxybutyrate <=> H+ + 2-Hydroxybutyrate
+rxn18910,0.1743697478991597,0.1743697478991597,0.03262933669374735,Neisseria mucosa,H2O + ATP + 2.0 K+ + 3.0 Na+ --> ADP + Phosphate + H+ + 2.0 K+ + 3.0 Na+
 rxn00688,1.0,0.9949494949494948,0.3975571030608203,Corynebacterium glutamicum,H2O + NADP + 10-Formyltetrahydrofolate <=> NADPH + CO2 + H+ + Tetrahydrofolate
 rxn04794,0.8600050087653394,0.5377809098739331,0.09417932884948876,Corynebacterium glutamicum,CoA + 2-Oxobutyrate <=> Formate + Propionyl-CoA
 rxn00186,0.9686758424299953,0.23972280949025138,0.034841915669198975,Corynebacterium glutamicum,2.0 H2O + ATP + 5-Oxoproline --> ADP + Phosphate + L-Glutamate + H+
@@ -169,16 +49,6 @@ rxn05316,0.3605263157894737,0.1446556205328135,0.01715341876245275,Aeromonas sal
 rxn12424,0.40028971511347167,0.13466536712150742,0.01639929485470434,Aeromonas salmonicida,GLCN <=> GLCN
 rxn10960,0.36251844564682734,0.11972059779077321,0.015773701318035595,Aeromonas salmonicida,Acetoacetate <=> Acetoacetate
 rxn05571,0.3987854251012146,0.11200454840805721,0.01576686421072765,Aeromonas salmonicida,H+ + GLCN <=> H+ + GLCN
-rxn01934,0.9751618350689558,0.9723993369526133,0.09962909150856553,Flavobacterium johnsoniae,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
-rxn11674,0.9751618350689558,0.9723993369526133,0.09962909150856553,Flavobacterium johnsoniae,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
-rxn05485,0.9235127478753541,0.9235127478753541,0.08961788021265524,Flavobacterium johnsoniae,Phosphoenolpyruvate + N-Acetyl-D-glucosamine <=> Pyruvate + N-Acetyl-D-glucosamine 6-phosphate
-rxn09989,0.9106600343512302,0.8951534393390576,0.08630707870111241,Flavobacterium johnsoniae,5.0 H2O + Dextrin --> 6.0 D-Glucose
-rxn05531,0.9106600343512302,0.8951534393390576,0.08630707870111241,Flavobacterium johnsoniae,H+ + Dextrin <=> H+ + Dextrin
-rxn05610,0.9103777595782483,0.8920574641068593,0.06941050679078763,Flavobacterium johnsoniae,Phosphoenolpyruvate + D-Mannose <=> Pyruvate + D-mannose-6-phosphate
-rxn23629,0.887427279470246,0.8709425622045449,0.0610477999431577,Flavobacterium johnsoniae,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
-rxn01919,0.887427279470246,0.8709425622045449,0.0610477999431577,Flavobacterium johnsoniae,O2 + Gentisate <=> H+ + Maleylpyruvate
-rxn01620,0.8955926785577998,0.8747971829256528,0.060117137551690264,Flavobacterium johnsoniae,L-Fuculose1-phosphate <=> Glycerone-phosphate + L-Lactaldehyde
-rxn05691,0.8955926785577998,0.8747971829256528,0.060117137551690264,Flavobacterium johnsoniae,H+ + L-Fucose <=> H+ + L-Fucose
 rxn23629,0.7744922981691784,0.7079343662952646,0.14219984537612612,Listeria monocytogenes,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
 rxn04455,0.7744922981691784,0.7079343662952646,0.14219984537612612,Listeria monocytogenes,Chorismate <=> Pyruvate + SALC
 rxn01919,0.7744922981691784,0.7079343662952646,0.14219984537612612,Listeria monocytogenes,O2 + Gentisate <=> H+ + Maleylpyruvate
@@ -189,26 +59,26 @@ rxn10960,0.6472071543761913,0.4803490598885794,0.0395594194581247,Listeria monoc
 rxn05646,0.6019796495372282,0.5013361768802228,0.036918380922917785,Listeria monocytogenes,H+ + L-Rhamnose <=> H+ + L-Rhamnose
 rxn00989,0.6506008399972703,0.4564371518105849,0.036615225570878915,Listeria monocytogenes,H2O + Acetoacetyl-CoA <=> CoA + H+ + Acetoacetate
 rxn05531,0.5842514447262296,0.4893105849582173,0.03597867741213772,Listeria monocytogenes,H+ + Dextrin <=> H+ + Dextrin
-rxn23730,1.0,0.972644376899696,0.13285515637801876,Haemophilus influenzae,H+ + 6.0 Glycolate --> 4.0 H2O + 2.0 CO2 + Acetate + 2.0 Succinate
-rxn01748,1.0,0.972644376899696,0.13285515637801876,Haemophilus influenzae,H2O + Allantoin <=> Allantoate
-rxn09402,0.9726022913256955,0.9711082785894041,0.10240838845097347,Haemophilus influenzae,2-Methylcitrate <=> Pyruvate + Succinate
-rxn00679,0.9726022913256955,0.9711082785894041,0.10240838845097347,Haemophilus influenzae,H2O + Oxaloacetate + Propionyl-CoA --> CoA + H+ + 2-Methylcitrate
-rxn00663,0.9726022913256955,0.9711082785894041,0.10240838845097347,Haemophilus influenzae,CoA + 2.0 H+ + beta-Alanine <=> H2O + beta-Alanyl-CoA
-rxn01522,1.0,0.9696048632218844,0.0976223975466577,Haemophilus influenzae,H2O + NAD + XAN --> NADH + H+ + Urate
-rxn09370,1.0,0.9696048632218844,0.09739934567717372,Haemophilus influenzae,2.0 H2O + O2 + Urate <=> CO2 + H2O2 + H+ + Allantoin
-rxn21286,0.9715518999388213,0.9342419191423996,0.08673390046705941,Haemophilus influenzae,2.0 H2O + Acrylyl-CoA --> CoA + 2.0 H+ + Hydracrylic acid
-rxn05316,1.0,0.9270516717325228,0.08196590336758502,Haemophilus influenzae,H+ + Inosine <=> H+ + Inosine
-rxn00949,0.9422492401215805,0.9422492401215805,0.07833608070221923,Haemophilus influenzae,H2O + Homocysteine <=> NH3 + H+ + 2-Oxobutyrate + H2S
-rxn00213,1.0,0.476890756302521,0.18340339847172785,Chryseobacterium gleum,UTP + Glucose-1-phosphate <=> PPi + UDP-glucose
-rxn06822,0.5846800258564965,0.295752542262041,0.0662648758762162,Chryseobacterium gleum,UDP-glucose + Cyanohydrin <=> UDP + Cyanoglycoside
-rxn09673,1.0,0.22058823529411764,0.06602062242567991,Chryseobacterium gleum,H+ + Maltose <=> H+ + Maltose
-rxn09398,1.0,0.13865546218487396,0.04933943687816385,Chryseobacterium gleum,UDP-glucose + glycogen(n-1) <=> UDP + Glycogen
-rxn05170,1.0,0.1407563025210084,0.038977454592906836,Chryseobacterium gleum,H2O + ATP + Maltose --> ADP + Phosphate + H+ + Maltose
-rxn00701,1.0,0.10294117647058824,0.0358735194706331,Chryseobacterium gleum,UDP-glucose + D-Galactose 1-phosphate <=> UDP-galactose + Glucose-1-phosphate
-rxn06402,0.669083762537273,0.16141320341366122,0.03524005220639048,Chryseobacterium gleum,UDP-glucose + ROH <=> UDP + D-Glucoside
-rxn00553,0.5979349186483105,0.10934996566720073,0.027218549040857663,Chryseobacterium gleum,UDP-glucose + D-fructose-6-phosphate <=> UDP + 6-Phosphosucrose
-rxn38996,1.0,0.07142857142857142,0.023706922194597583,Chryseobacterium gleum,H2O + UDP-galactose --> 2.0 H+ + Glucose-1-phosphate + UMP
-rxn18456,0.5125947163628918,0.10230356734133345,0.01345846830646276,Chryseobacterium gleum,H2O + ATP + beta D-Galactose --> ADP + Phosphate + H+ + beta D-Galactose
+rxn05693,1.0,0.4740853658536585,0.13135178666545064,Streptococcus equinus,H+ + Stachyose <=> H+ + Stachyose
+rxn18456,1.0,0.3856707317073171,0.09463009816004188,Streptococcus equinus,H2O + ATP + beta D-Galactose --> ADP + Phosphate + H+ + beta D-Galactose
+rxn05643,1.0,0.3506097560975609,0.0912940503345886,Streptococcus equinus,H+ + Melitose <=> H+ + Melitose
+rxn05612,1.0,0.34603658536585363,0.08456413184633793,Streptococcus equinus,H+ + Melibiose <=> H+ + Melibiose
+rxn18574,1.0,0.15853658536585366,0.03825761458468679,Streptococcus equinus,H2O + ATP + Melibiose --> ADP + Phosphate + H+ + Melibiose
+rxn29080,1.0,0.13414634146341464,0.027823035372029882,Streptococcus equinus,H+ + beta D-Galactose <=> H+ + beta D-Galactose
+rxn09180,0.6680216802168022,0.32208188153310113,0.02558524927402765,Streptococcus equinus,3.0 Fumarate + ProtoporphyrinogenIX <=> 3.0 Succinate + Protoporphyrin
+rxn01369,0.6680216802168022,0.32208188153310113,0.02558524927402765,Streptococcus equinus,O2 + 2-Oxoglutarate + Deoxyuridine <=> CO2 + Succinate + Uridine
+rxn18495,1.0,0.12347560975609755,0.02438562357507595,Streptococcus equinus,H2O + ATP + Melitose --> ADP + Phosphate + H+ + Melitose
+rxn29063,0.7297742626462349,0.3215011614401858,0.021733623063966048,Streptococcus equinus,Phosphoenolpyruvate + beta-Cellobiose <=> Pyruvate + cellobiose 6-phoshate
+rxn01640,1.0,0.5635593220338984,0.2234055672363101,Ralstonia solanacearum,H2O + N-Formimino-L-glutamate <=> NH3 + N-Formyl-L-glutamate
+rxn00688,1.0,0.4152542372881356,0.21456541514215194,Ralstonia solanacearum,H2O + NADP + 10-Formyltetrahydrofolate <=> NADPH + CO2 + H+ + Tetrahydrofolate
+rxn05299,1.0,0.3559322033898305,0.12772518675493286,Ralstonia solanacearum,H+ + L-Histidine <=> H+ + L-Histidine
+rxn05164,1.0,0.21186440677966098,0.08019043941781659,Ralstonia solanacearum,H2O + ATP + L-Histidine --> ADP + Phosphate + H+ + L-Histidine
+rxn10932,1.0,0.11864406779661014,0.036604478041400816,Ralstonia solanacearum,L-Histidine <=> L-Histidine
+rxn04783,1.0,0.0423728813559322,0.011959067521880385,Ralstonia solanacearum,ATP + Formate + GAR --> ADP + Phosphate + H+ + N-Formyl-GAR
+rxn00690,0.9479028697571744,0.024099225502301046,0.00625811360427098,Ralstonia solanacearum,ATP + Formate + Tetrahydrofolate <=> ADP + Phosphate + 10-Formyltetrahydrofolate
+rxn07429,0.118671642339792,0.07246043326972729,0.0062376088024810135,Ralstonia solanacearum,H2O + O2 + L-Lysine <=> NH3 + H2O2 + 2-Aminoadipate 6-semialdehyde
+rxn00521,0.1412560948984789,0.05446739252441346,0.00553596473420046,Ralstonia solanacearum,H2O + L-Tyrosine <=> NH3 + Pyruvate + Phenol
+rxn34028,0.10938715442026714,0.05840161634302399,0.0052600660693907396,Ralstonia solanacearum,0.5 O2 + H+ + N-Carbamoyl-L-aspartate --> 2.0 H2O + Orotate
 rxn01068,1.0,0.2419354838709677,0.08779380275859985,Sphingobacterium spiritivorum,NAD + L-Threonine <=> NADH + H+ + L-2-Amino-acetoacetate
 rxn10139,1.0,0.15591397849462366,0.05915627525851285,Sphingobacterium spiritivorum,2.0 NADH + Acetyl-CoA + 2.0 H+ <=> 2.0 NAD + CoA + Ethanol
 rxn00229,0.48221670802315975,0.38053522965405895,0.051898317387284704,Sphingobacterium spiritivorum,O2 + L-Lactate <=> H2O + CO2 + Acetate
@@ -219,36 +89,6 @@ rxn01072,0.7825917556300164,0.1725067848431756,0.02086461324458528,Sphingobacter
 rxn01934,0.36787037154894797,0.24821361091071487,0.01903470499845,Sphingobacterium spiritivorum,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
 rxn11674,0.36787037154894797,0.24821361091071487,0.01903470499845,Sphingobacterium spiritivorum,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
 rxn01014,0.17271956411921785,0.16444226871414347,0.017786577144160872,Sphingobacterium spiritivorum,H+ + Hydroxypyruvate <=> CO2 + Glycolaldehyde
-rxn11676,1.0,1.0,0.23800920134475476,Streptococcus oralis,H2O + NH3 + Acetylphosphate + trdox <=> Phosphate + Glycine + H+ + trdrd
-rxn10183,0.9819327341795608,0.7217625225593354,0.1501742921578671,Streptococcus oralis,Phosphoenolpyruvate + N-Acetyl-D-mannosamine <=> Pyruvate + N-Acetylmannosamine 6-phosphate
-rxn05486,0.9937848605577689,0.42469438485374733,0.08214032285896262,Streptococcus oralis,H+ + N-Acetyl-D-mannosamine <=> H+ + N-Acetyl-D-mannosamine
-rxn09468,0.5621838478981336,0.5487451901794531,0.06032774023107165,Streptococcus oralis,8.0 H2O + 8.0 NAD + NADPH + 8.0 O2 + 8.0 CoA + Octadecenoyl-CoA <=> 8.0 NADH + NADP + 9.0 Acetyl-CoA + 8.0 H2O2 + 8.0 H+
-rxn00916,0.9270672412391251,0.38825893009159945,0.03795351258649416,Streptococcus oralis,ATP + NH3 + XMP <=> PPi + AMP + 3.0 H+ + GMP
-rxn10878,0.9800796812749004,0.32669322709163345,0.03616313308804287,Streptococcus oralis,H2O + 1.5 O2 + Phosphate + Pyruvate + H+ <=> CO2 + 2.0 H2O2 + Acetylphosphate
-rxn00917,0.9255478087649402,0.3797119215445909,0.034090120614117043,Streptococcus oralis,H2O + ATP + L-Glutamine + XMP --> PPi + AMP + L-Glutamate + 3.0 H+ + GMP
-rxn01014,1.0,0.2692307692307692,0.023994594222629118,Streptococcus oralis,H+ + Hydroxypyruvate <=> CO2 + Glycolaldehyde
-rxn00229,0.20512820512820518,0.20512820512820518,0.021506539724719626,Streptococcus oralis,O2 + L-Lactate <=> H2O + CO2 + Acetate
-rxn00168,0.9920318725099602,0.16533864541832669,0.017210715283727956,Streptococcus oralis,Pyruvate + H+ <=> CO2 + Acetaldehyde
-rxn23629,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
-rxn12298,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,NAD + Saligenin <=> NADH + H+ + Salicylaldehyde
-rxn01919,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,O2 + Gentisate <=> H+ + Maleylpyruvate
-rxn04455,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,Chorismate <=> Pyruvate + SALC
-rxn10960,0.7468009230123767,0.5539993775287892,0.08425008939142246,Listeria seeligeri,Acetoacetate <=> Acetoacetate
-rxn05598,0.830021247344082,0.5167289137877373,0.07214007975502043,Listeria seeligeri,H2O + ATP + LACT --> ADP + Phosphate + H+ + LACT
-rxn00356,0.796148968061801,0.537270463741052,0.0719213817863983,Listeria seeligeri,D-Glucose + UDP-galactose <=> UDP + LACT
-rxn07524,0.8219603992799869,0.39083411142234675,0.04447089509295125,Listeria seeligeri,NADPH + O2 + H+ + SALC <=> H2O + NADP + Gentisate
-rxn21111,0.6286894923258559,0.4971988795518206,0.038162585700885814,Listeria seeligeri,H2O + Gentiobiose --> 2.0 beta-D-Glucose
-rxn29410,0.6286894923258559,0.4971988795518206,0.038162585700885814,Listeria seeligeri,Gentiobiose <=> Gentiobiose
-rxn00419,1.0,0.4810924369747899,0.16298805058920834,Neisseria mucosa,H2O + NAD + L-Serine <=> NADH + NH3 + H+ + Hydroxypyruvate
-rxn01072,0.35084033613445376,0.35084033613445376,0.09711095289379942,Neisseria mucosa,H2O + O2 + Aminoethanol <=> NH3 + H2O2 + Glycolaldehyde
-rxn00422,1.0,0.3130252100840336,0.0970537827647849,Neisseria mucosa,Pyruvate + L-Serine <=> L-Alanine + Hydroxypyruvate
-rxn25799,1.0,0.17016806722689076,0.050990874649951695,Neisseria mucosa,2-Oxoglutarate + L-Serine <=> L-Glutamate + Hydroxypyruvate
-rxn12522,0.4539569481237171,0.43489075630252094,0.04876973972044076,Neisseria mucosa,H+ + 2-Oxobutyrate <=> H+ + 2-Oxobutyrate
-rxn00777,1.0,0.19957983193277312,0.04811153284059669,Neisseria mucosa,ribose-5-phosphate <=> D-Ribulose5-phosphate
-rxn09402,0.455094537815126,0.43689075630252094,0.043438915411117066,Neisseria mucosa,2-Methylcitrate <=> Pyruvate + Succinate
-rxn00229,0.9166451612903226,0.41788235294117654,0.03842520237852184,Neisseria mucosa,O2 + L-Lactate <=> H2O + CO2 + Acetate
-rxn12585,0.4539569481237171,0.43489075630252094,0.03282523807634874,Neisseria mucosa,H+ + 2-Hydroxybutyrate <=> H+ + 2-Hydroxybutyrate
-rxn18910,0.1743697478991597,0.1743697478991597,0.03262933669374735,Neisseria mucosa,H2O + ATP + 2.0 K+ + 3.0 Na+ --> ADP + Phosphate + H+ + 2.0 K+ + 3.0 Na+
 rxn00656,0.7583664656784013,0.4647132853593211,0.06870339117909828,Enterococcus faecalis,L-Alanine + 3-Oxopropanoate <=> Pyruvate + beta-Alanine
 rxn03379,1.0,0.4229323308270677,0.06635921238356654,Enterococcus faecalis,H2O + Selenocystathionine <=> NH3 + Pyruvate + Selenohomocysteine
 rxn11676,1.0,0.3796992481203008,0.06511699639124974,Enterococcus faecalis,H2O + NH3 + Acetylphosphate + trdox <=> Phosphate + Glycine + H+ + trdrd
@@ -259,6 +99,36 @@ rxn09669,0.7945326278659612,0.2762109135499693,0.029662014296418317,Enterococcus
 rxn01682,0.9165931761616399,0.37731937138984806,0.02901271363385821,Enterococcus faecalis,Indoleglycerol phosphate <=> Glyceraldehyde3-phosphate + indol
 rxn30065,0.9165931761616399,0.37731937138984806,0.02901271363385821,Enterococcus faecalis,H2O + L-Tryptophan <=> Pyruvate + indol + NH4+
 rxn01964,0.38878863826232235,0.3754396721417276,0.02883946834811608,Enterococcus faecalis,L-Serine + Indoleglycerol phosphate --> H2O + L-Tryptophan + Glyceraldehyde3-phosphate
+rxn11676,1.0,0.9410112359550562,0.2507839524354186,Streptococcus mitis,H2O + NH3 + Acetylphosphate + trdox <=> Phosphate + Glycine + H+ + trdrd
+rxn10183,0.9976628151260504,0.6669768258426966,0.1672165065540906,Streptococcus mitis,Phosphoenolpyruvate + N-Acetyl-D-mannosamine <=> Pyruvate + N-Acetylmannosamine 6-phosphate
+rxn05486,0.9926324503311258,0.4210323033707865,0.09119661948574202,Streptococcus mitis,H+ + N-Acetyl-D-mannosamine <=> H+ + N-Acetyl-D-mannosamine
+rxn01014,1.0,0.3314606741573033,0.04226528849195993,Streptococcus mitis,H+ + Hydroxypyruvate <=> CO2 + Glycolaldehyde
+rxn00168,1.0,0.19382022471910115,0.02614297654300616,Streptococcus mitis,Pyruvate + H+ <=> CO2 + Acetaldehyde
+rxn20627,0.38944244223023106,0.3225070224719101,0.023042534875301217,Streptococcus mitis,3.0 O2 + ProtoporphyrinogenIX <=> 3.0 H2O2 + Protoporphyrin
+rxn00419,1.0,0.22191011235955052,0.021470893939278216,Streptococcus mitis,H2O + NAD + L-Serine <=> NADH + NH3 + H+ + Hydroxypyruvate
+rxn00979,0.26860654950542595,0.2455231741573034,0.017560663510593474,Streptococcus mitis,H2O + NAD + Glycolaldehyde --> NADH + 2.0 H+ + Glycolate
+rxn23730,0.26860654950542595,0.2455231741573034,0.017560663510593474,Streptococcus mitis,H+ + 6.0 Glycolate --> 4.0 H2O + 2.0 CO2 + Acetate + 2.0 Succinate
+rxn00680,0.6743902439024391,0.0776685393258427,0.014119166448849713,Streptococcus mitis,CoA + H+ + 2-Hydroxyglutarate <=> H2O + Glyoxalate + Propionyl-CoA
+rxn00541,1.0,0.3885350318471338,0.11481870891528795,Haemophilus parasuis,L-Threonine <=> Glycine + Acetaldehyde
+rxn15500,1.0,0.5796178343949044,0.10542393459204198,Haemophilus parasuis,O-Phospho-L-homoserine + Selenocysteine <=> Phosphate + Selenocystathionine
+rxn03374,1.0,0.5796178343949044,0.10542393459204198,Haemophilus parasuis,H2O + Selenocystathionine <=> NH3 + 2-Oxobutyrate + Selenocysteine
+rxn00668,0.9132767804300651,0.538077084011344,0.07109051136012959,Haemophilus parasuis,NADPH + Acrylyl-CoA <=> NADP + Propionyl-CoA
+rxn19118,0.8690302398331595,0.34871914082477107,0.058976233094886074,Haemophilus parasuis,H2O + O2 + Acetaldehyde --> H2O2 + Acetate + H+
+rxn12522,0.8066772453189464,0.5908782370170625,0.055740384872528574,Haemophilus parasuis,H+ + 2-Oxobutyrate <=> H+ + 2-Oxobutyrate
+rxn00499,0.8522531217952585,0.32841601190199454,0.052635989948422654,Haemophilus parasuis,NAD + L-Lactate <=> NADH + Pyruvate + H+
+rxn10030,0.8764806154115128,0.46615370310102744,0.04576630650038219,Haemophilus parasuis,15.0 NADPH + Acetyl-CoA + 22.0 H+ + 8.0 Malonyl-CoA <=> 7.0 H2O + 15.0 NADP + 9.0 CoA + 8.0 CO2 + octadecenoate
+rxn00663,0.9686568095327219,0.36093263285136445,0.03552359240896912,Haemophilus parasuis,CoA + 2.0 H+ + beta-Alanine <=> H2O + beta-Alanyl-CoA
+rxn21286,0.9228445472284454,0.2968385327072388,0.027089484787161413,Haemophilus parasuis,2.0 H2O + Acrylyl-CoA --> CoA + 2.0 H+ + Hydracrylic acid
+rxn04794,0.9801427578156395,0.7723386395508397,0.11358999085216415,Neisseria meningitidis,CoA + 2-Oxobutyrate <=> Formate + Propionyl-CoA
+rxn09402,0.9803192666350561,0.7794057773600269,0.09872661409745792,Neisseria meningitidis,2-Methylcitrate <=> Pyruvate + Succinate
+rxn08688,0.9732813857173429,0.777249445837878,0.09039536400907468,Neisseria meningitidis,2.0 O2 + H2S <=> Sulfate + H+
+rxn00949,0.9536877352433943,0.761602219664336,0.08843652352163195,Neisseria meningitidis,H2O + Homocysteine <=> NH3 + H+ + 2-Oxobutyrate + H2S
+rxn13143,1.0,0.1060070671378092,0.05034461528773265,Neisseria meningitidis,H2O + NAD + L-Threonine <=> NADH + Acetate + Glycine + 2.0 H+
+rxn00128,1.0,0.4840989399293286,0.044304636230335516,Neisseria meningitidis,S-Adenosyl-L-methionine <=> H+ + 5-Methylthioadenosine + 1-Aminocyclopropane-1-carboxylate
+rxn00738,1.0,0.4840989399293286,0.044304636230335516,Neisseria meningitidis,H2O + 1-Aminocyclopropane-1-carboxylate <=> NH3 + 2-Oxobutyrate
+rxn13085,0.9862136830413687,0.5087886845372432,0.04217383488980155,Neisseria meningitidis,S-Adenosyl-L-methionine + Putrescine <=> CO2 + 5-Methylthioadenosine + Spermidine
+rxn09458,1.0,0.4770318021201414,0.03338883830692692,Neisseria meningitidis,NADPH + O2 + 2.0 H+ + strcoa <=> 2.0 H2O + NADP + Octadecenoyl-CoA
+rxn09468,1.0,0.4770318021201414,0.03338883830692692,Neisseria meningitidis,8.0 H2O + 8.0 NAD + NADPH + 8.0 O2 + 8.0 CoA + Octadecenoyl-CoA <=> 8.0 NADH + NADP + 9.0 Acetyl-CoA + 8.0 H2O2 + 8.0 H+
 rxn05291,1.0,0.9607476635514018,0.3538263533511717,Streptococcus pneumoniae,14.0 NADPH + Acetyl-CoA + 20.0 H+ + 7.0 Malonyl-CoA <=> 6.0 H2O + 14.0 NADP + 8.0 CoA + 7.0 CO2 + Palmitate
 rxn30666,0.7909076508791383,0.7070235060889266,0.20545132732810326,Streptococcus pneumoniae,H2O + 7.0 ATP + 14.0 NADPH + 8.0 Acetyl-CoA + 6.0 H+ --> 14.0 NADP + 7.0 ADP + 7.0 Phosphate + 8.0 CoA + Palmitate
 rxn01822,0.6555777645724163,0.24548691184205196,0.01618587285182396,Streptococcus pneumoniae,NADPH + O2 + H+ + 4-Hydroxyphenylacetate <=> H2O + NADP + Homogentisate
@@ -269,6 +139,36 @@ rxn02403,1.0,0.10606060606060606,0.012840286905802436,Streptococcus pneumoniae,"
 rxn00321,1.0,0.10606060606060606,0.012840286905802436,Streptococcus pneumoniae,L-Lysine <=> L-beta-Lysine
 rxn03978,0.3368632579503046,0.2136383865355828,0.011422480773705215,Streptococcus pneumoniae,2.0 H2O + NH3 + 6.0 Cytochrome c3+ <=> 8.0 H+ + Nitrite + 6.0 Cytochrome c2+
 rxn00399,0.3368632579503046,0.2136383865355828,0.011422480773705215,Streptococcus pneumoniae,NADPH + 3.0 O2 + 2.0 L-Arginine <=> 2.0 H2O + NADP + H+ + 2.0 Citrulline + 2.0 NO
+rxn00916,1.0,0.5374771480804388,0.1789504378944248,Staphylococcus aureus,ATP + NH3 + XMP <=> PPi + AMP + 3.0 H+ + GMP
+rxn00917,1.0,0.4442413162705667,0.1719336452790886,Staphylococcus aureus,H2O + ATP + L-Glutamine + XMP --> PPi + AMP + L-Glutamate + 3.0 H+ + GMP
+rxn38855,0.8327239488117002,0.5551492992078001,0.11772151458658965,Staphylococcus aureus,H2O + ATP --> PPi + 2.0 H+ + dGMP
+rxn38903,0.7515539305301645,0.18249653942233574,0.030368091169558388,Staphylococcus aureus,H2O + ATP --> Phosphate + H+ + dGDP
+rxn02928,0.4345295271146601,0.3961604739478026,0.02745241452908996,Staphylococcus aureus,NAD + tetrahydrodipicolinate <=> NADH + H+ + Dihydrodipicolinate
+rxn01361,0.8336114442648311,0.3870883123277278,0.027090723712286126,Staphylococcus aureus,NAD + S-Dihydroorotate <=> NADH + H+ + Orotate
+rxn00957,0.8184202227422862,0.3979886275127022,0.02696793270789063,Staphylococcus aureus,H2O + NAD + p-Hydroxybenzaldehyde <=> NADH + 2.0 H+ + 4-Hydroxybenzoate
+rxn00958,0.4345295271146601,0.3961604739478026,0.02554495283032364,Staphylococcus aureus,H2O + NADP + p-Hydroxybenzaldehyde <=> NADPH + 2.0 H+ + 4-Hydroxybenzoate
+rxn02929,0.7965375316368694,0.3975406693544156,0.021506675255845417,Staphylococcus aureus,NADP + tetrahydrodipicolinate <=> NADPH + H+ + Dihydrodipicolinate
+rxn01547,0.6513037621475993,0.027317376337316526,0.009717905233943872,Staphylococcus aureus,H2O + H+ + Guanosine <=> NH3 + Xanthosine
+rxn11676,1.0,1.0,0.23800920134475476,Streptococcus oralis,H2O + NH3 + Acetylphosphate + trdox <=> Phosphate + Glycine + H+ + trdrd
+rxn10183,0.9819327341795608,0.7217625225593354,0.1501742921578671,Streptococcus oralis,Phosphoenolpyruvate + N-Acetyl-D-mannosamine <=> Pyruvate + N-Acetylmannosamine 6-phosphate
+rxn05486,0.9937848605577689,0.42469438485374733,0.08214032285896262,Streptococcus oralis,H+ + N-Acetyl-D-mannosamine <=> H+ + N-Acetyl-D-mannosamine
+rxn09468,0.5621838478981336,0.5487451901794531,0.06032774023107165,Streptococcus oralis,8.0 H2O + 8.0 NAD + NADPH + 8.0 O2 + 8.0 CoA + Octadecenoyl-CoA <=> 8.0 NADH + NADP + 9.0 Acetyl-CoA + 8.0 H2O2 + 8.0 H+
+rxn00916,0.9270672412391251,0.38825893009159945,0.03795351258649416,Streptococcus oralis,ATP + NH3 + XMP <=> PPi + AMP + 3.0 H+ + GMP
+rxn10878,0.9800796812749004,0.32669322709163345,0.03616313308804287,Streptococcus oralis,H2O + 1.5 O2 + Phosphate + Pyruvate + H+ <=> CO2 + 2.0 H2O2 + Acetylphosphate
+rxn00917,0.9255478087649402,0.3797119215445909,0.034090120614117043,Streptococcus oralis,H2O + ATP + L-Glutamine + XMP --> PPi + AMP + L-Glutamate + 3.0 H+ + GMP
+rxn01014,1.0,0.2692307692307692,0.023994594222629118,Streptococcus oralis,H+ + Hydroxypyruvate <=> CO2 + Glycolaldehyde
+rxn00229,0.20512820512820518,0.20512820512820518,0.021506539724719626,Streptococcus oralis,O2 + L-Lactate <=> H2O + CO2 + Acetate
+rxn00168,0.9920318725099602,0.16533864541832669,0.017210715283727956,Streptococcus oralis,Pyruvate + H+ <=> CO2 + Acetaldehyde
+rxn00958,1.0,0.5833333333333334,0.3105643288355716,Pseudomonas putida,H2O + NADP + p-Hydroxybenzaldehyde <=> NADPH + 2.0 H+ + 4-Hydroxybenzoate
+rxn00957,1.0,0.29444444444444445,0.1518744377412234,Pseudomonas putida,H2O + NAD + p-Hydroxybenzaldehyde <=> NADH + 2.0 H+ + 4-Hydroxybenzoate
+rxn00521,1.0,0.2740740740740741,0.11112132522412048,Pseudomonas putida,H2O + L-Tyrosine <=> NH3 + Pyruvate + Phenol
+rxn02276,1.0,0.30368098159509205,0.06408667284578537,Pseudomonas putida,4-Maleylacetoacetate <=> Fumarylacetoacetate
+rxn00993,1.0,0.30368098159509205,0.06408667284578537,Pseudomonas putida,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
+rxn10559,1.0,0.14074074074074075,0.027609442930011347,Pseudomonas putida,H+ + 4-Hydroxyphenylacetate <=> H+ + 4-Hydroxyphenylacetate
+rxn00033,1.0,0.14074074074074075,0.027609442930011347,Pseudomonas putida,O2 + 2.0 p-hydroxyphenylpyruvate <=> 2.0 CO2 + 2.0 4-Hydroxyphenylacetate
+rxn01990,0.7971704019030925,0.14467166553056124,0.01906301506632226,Pseudomonas putida,5-Dehydro-4-deoxy-D-glucarate <=> Pyruvate + Tartronate semialdehyde
+rxn01418,0.9176767676767676,0.18578732106339466,0.018446054226407438,Pseudomonas putida,NAD + CoA + H+ + 2-Oxoadipate <=> NADH + CO2 + Glutaryl-CoA
+rxn01423,0.9176767676767676,0.18578732106339466,0.018446054226407438,Pseudomonas putida,2-Oxoglutarate + L-2-Aminoadipate <=> L-Glutamate + 2-Oxoadipate
 rxn00917,1.0,0.4209445585215606,0.1710837002485606,Staphylococcus epidermidis,H2O + ATP + L-Glutamine + XMP --> PPi + AMP + L-Glutamate + 3.0 H+ + GMP
 rxn00916,1.0,0.48665297741273106,0.1644818632116544,Staphylococcus epidermidis,ATP + NH3 + XMP <=> PPi + AMP + 3.0 H+ + GMP
 rxn38855,0.8498093282487533,0.604161319301848,0.15145962025071485,Staphylococcus epidermidis,H2O + ATP --> PPi + 2.0 H+ + dGMP
@@ -289,3 +189,103 @@ rxn09429,0.16814159292035402,0.16814159292035402,0.01673092142924755,Streptococc
 rxn01256,0.16814159292035402,0.16814159292035402,0.01673092142924755,Streptococcus gallolyticus,Chorismate --> Prephenate
 rxn09458,0.966609209554297,0.17678398522821953,0.014104673054460263,Streptococcus gallolyticus,NADPH + O2 + 2.0 H+ + strcoa <=> 2.0 H2O + NADP + Octadecenoyl-CoA
 rxn10204,0.9660618195469903,0.17383413272084489,0.014041961509862729,Streptococcus gallolyticus,Glycerol-3-phosphate + strcoa --> CoA + 1-octadecanoyl-sn-glycerol 3-phosphate
+rxn00553,1.0,0.43733333333333335,0.15259967214326273,Staphylococcus haemolyticus,UDP-glucose + D-fructose-6-phosphate <=> UDP + 6-Phosphosucrose
+rxn00214,1.0,0.6186666666666667,0.1087034197395411,Staphylococcus haemolyticus,UDP-glucose <=> UDP-galactose
+rxn02094,0.9504587519568793,0.6158972712680578,0.09330007406810124,Staphylococcus haemolyticus,ATP + D-Tagatose <=> ADP + H+ + D-Tagatose 6-phosphate
+rxn02095,0.9504587519568793,0.6158972712680578,0.09330007406810124,Staphylococcus haemolyticus,NAD + Dulcose <=> NADH + H+ + D-Tagatose
+rxn18456,0.9532484533029968,0.5236511503477795,0.06271461486114481,Staphylococcus haemolyticus,H2O + ATP + beta D-Galactose --> ADP + Phosphate + H+ + beta D-Galactose
+rxn15132,0.9428170144462279,0.5028357410379882,0.062228722139314574,Staphylococcus haemolyticus,H2O + O2 + beta D-Galactose --> H2O2 + H+ + D-Galactonate
+rxn02429,0.9428170144462279,0.5028357410379882,0.062228722139314574,Staphylococcus haemolyticus,ATP + 2-Dehydro-3-deoxy-D-galactonate <=> ADP + H+ + 2-Dehydro-3-deoxy-D-galactonate 6-phosphate
+rxn02173,0.9428170144462279,0.5028357410379882,0.062228722139314574,Staphylococcus haemolyticus,D-Galactonate --> H2O + 2-Dehydro-3-deoxy-D-galactonate
+rxn15122,0.9596647416061292,0.49646655965757086,0.06093661763148831,Staphylococcus haemolyticus,NADH + H+ + beta D-Galactose <=> NAD + Dulcose
+rxn02409,1.0,0.32,0.039576501243643716,Staphylococcus haemolyticus,H2O + LacCer <=> beta D-Galactose + Glucocerebroside
+rxn00958,1.0,0.5130315500685871,0.1574446069032603,Ralstonia pickettii,H2O + NADP + p-Hydroxybenzaldehyde <=> NADPH + 2.0 H+ + 4-Hydroxybenzoate
+rxn00957,1.0,0.4609053497942387,0.12626684691566756,Ralstonia pickettii,H2O + NAD + p-Hydroxybenzaldehyde <=> NADH + 2.0 H+ + 4-Hydroxybenzoate
+rxn01934,0.4334705075445816,0.4334705075445816,0.10066537016705172,Ralstonia pickettii,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
+rxn11674,0.4334705075445816,0.4334705075445816,0.10066537016705172,Ralstonia pickettii,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
+rxn08131,0.386502533386729,0.38544216978347323,0.09869796043533684,Ralstonia pickettii,H2O + NAD + AIR <=> NADH + 2.0 Formate + 4.0 H+ + 4-Amino-5-phosphomethyl-2-methylpyrimidine
+rxn00521,1.0,0.41975308641975306,0.06436832873038738,Ralstonia pickettii,H2O + L-Tyrosine <=> NH3 + Pyruvate + Phenol
+rxn00993,0.39338345173230327,0.2971123960341025,0.057164822048716125,Ralstonia pickettii,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
+rxn02276,0.39338345173230327,0.2971123960341025,0.057164822048716125,Ralstonia pickettii,4-Maleylacetoacetate <=> Fumarylacetoacetate
+rxn01990,1.0,0.25925925925925924,0.02674475185418052,Ralstonia pickettii,5-Dehydro-4-deoxy-D-glucarate <=> Pyruvate + Tartronate semialdehyde
+rxn05938,0.769281826629497,0.20124672257818066,0.01964865198837661,Ralstonia pickettii,CO2 + Acetyl-CoA + H+ + Reducedferredoxin <=> CoA + Pyruvate + Oxidizedferredoxin
+rxn10484,0.9881956155143339,0.9881956155143339,0.21691015761166665,Pseudomonas stutzeri,"NADPH + NH3 + 2.0 H+ + tetrahydrodipicolinate <=> NADP + meso-2,6-Diaminopimelate"
+rxn01644,0.9881956155143339,0.9881956155143339,0.21691015761166665,Pseudomonas stutzeri,Pyruvate + L-Aspartate4-semialdehyde --> 2.0 H2O + H+ + Dihydrodipicolinate
+rxn01418,0.9975247524752475,0.9975247524752475,0.20470870860836884,Pseudomonas stutzeri,NAD + CoA + H+ + 2-Oxoadipate <=> NADH + CO2 + Glutaryl-CoA
+rxn01423,0.9975247524752475,0.9975247524752475,0.20470870860836884,Pseudomonas stutzeri,2-Oxoglutarate + L-2-Aminoadipate <=> L-Glutamate + 2-Oxoadipate
+rxn00993,0.7524752475247525,0.7524752475247525,0.10316130813400223,Pseudomonas stutzeri,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
+rxn02276,0.7524752475247525,0.7524752475247525,0.10316130813400223,Pseudomonas stutzeri,4-Maleylacetoacetate <=> Fumarylacetoacetate
+rxn02928,0.9914839797639123,0.5890003840181657,0.07120724527001872,Pseudomonas stutzeri,NAD + tetrahydrodipicolinate <=> NADH + H+ + Dihydrodipicolinate
+rxn00489,0.9689349887369689,0.6176347820279499,0.06834612250357246,Pseudomonas stutzeri,O2 + L-Phenylalanine <=> H2O + CO2 + 2-Phenylacetamide
+rxn00924,0.9689349887369689,0.6176347820279499,0.06834612250357246,Pseudomonas stutzeri,Acetate + H+ + Phenol <=> H2O + PACT
+rxn07429,0.9959340116837169,0.6062937238074566,0.06490957169595936,Pseudomonas stutzeri,H2O + O2 + L-Lysine <=> NH3 + H2O2 + 2-Aminoadipate 6-semialdehyde
+rxn12060,1.0,0.99288256227758,0.2401755132018171,Neisseria flavescens,2.0 S-Adenosyl-L-methionine + XAN <=> 2.0 S-Adenosyl-homocysteine + 2.0 H+ + Theophylline
+rxn00693,0.8999849305064509,0.7685545859957732,0.09716064052525046,Neisseria flavescens,Homocysteine + 5-Methyltetrahydrofolate <=> L-Methionine + Tetrahydrofolate
+rxn10213,0.7000343856011577,0.6751221298858141,0.05630601615799311,Neisseria flavescens,"H+ + strcoa + 1-octadecanoyl-sn-glycerol 3-phosphate --> CoA + 1,2-dioctadecanoyl-sn-glycerol 3-phosphate"
+rxn10204,0.7000343856011577,0.6751221298858141,0.05630601615799311,Neisseria flavescens,Glycerol-3-phosphate + strcoa --> CoA + 1-octadecanoyl-sn-glycerol 3-phosphate
+rxn09468,0.7044331782992108,0.6994194190230598,0.0540520648364976,Neisseria flavescens,8.0 H2O + 8.0 NAD + NADPH + 8.0 O2 + 8.0 CoA + Octadecenoyl-CoA <=> 8.0 NADH + NADP + 9.0 Acetyl-CoA + 8.0 H2O2 + 8.0 H+
+rxn09458,0.7044331782992108,0.6994194190230598,0.0540520648364976,Neisseria flavescens,NADPH + O2 + 2.0 H+ + strcoa <=> 2.0 H2O + NADP + Octadecenoyl-CoA
+rxn07764,1.0,0.402135231316726,0.05294463356239159,Neisseria flavescens,NADPH + O2 + H+ + Theophylline <=> H2O + NADP + Formaldehyde + 3-Methylxanthine
+rxn01188,0.7550857672693556,0.6046060414078471,0.046250945026898985,Neisseria flavescens,3-Dehydroshikimate --> H2O + Protocatechuate
+rxn01934,0.7272940812857364,0.5823529120615327,0.04135351486539296,Neisseria flavescens,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
+rxn11674,0.7272940812857364,0.5823529120615327,0.04135351486539296,Neisseria flavescens,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
+rxn01934,0.9751618350689558,0.9723993369526133,0.09962909150856553,Flavobacterium johnsoniae,O2 + H+ + (S)-4-Hydroxymandelate <=> CO2 + H2O2 + p-Hydroxybenzaldehyde
+rxn11674,0.9751618350689558,0.9723993369526133,0.09962909150856553,Flavobacterium johnsoniae,O2 + p-hydroxyphenylpyruvate <=> CO2 + (S)-4-Hydroxymandelate
+rxn05485,0.9235127478753541,0.9235127478753541,0.08961788021265524,Flavobacterium johnsoniae,Phosphoenolpyruvate + N-Acetyl-D-glucosamine <=> Pyruvate + N-Acetyl-D-glucosamine 6-phosphate
+rxn09989,0.9106600343512302,0.8951534393390576,0.08630707870111241,Flavobacterium johnsoniae,5.0 H2O + Dextrin --> 6.0 D-Glucose
+rxn05531,0.9106600343512302,0.8951534393390576,0.08630707870111241,Flavobacterium johnsoniae,H+ + Dextrin <=> H+ + Dextrin
+rxn05610,0.9103777595782483,0.8920574641068593,0.06941050679078763,Flavobacterium johnsoniae,Phosphoenolpyruvate + D-Mannose <=> Pyruvate + D-mannose-6-phosphate
+rxn23629,0.887427279470246,0.8709425622045449,0.0610477999431577,Flavobacterium johnsoniae,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
+rxn01919,0.887427279470246,0.8709425622045449,0.0610477999431577,Flavobacterium johnsoniae,O2 + Gentisate <=> H+ + Maleylpyruvate
+rxn01620,0.8955926785577998,0.8747971829256528,0.060117137551690264,Flavobacterium johnsoniae,L-Fuculose1-phosphate <=> Glycerone-phosphate + L-Lactaldehyde
+rxn05691,0.8955926785577998,0.8747971829256528,0.060117137551690264,Flavobacterium johnsoniae,H+ + L-Fucose <=> H+ + L-Fucose
+rxn12571,1.0,0.56353591160221,0.269885394359846,Bacillus pumilus,H+ + Quinate <=> H+ + Quinate
+rxn12298,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,NAD + Saligenin <=> NADH + H+ + Salicylaldehyde
+rxn23629,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
+rxn04455,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,Chorismate <=> Pyruvate + SALC
+rxn01919,1.0,0.4751381215469613,0.1922339797656547,Bacillus pumilus,O2 + Gentisate <=> H+ + Maleylpyruvate
+rxn07524,1.0,0.2983425414364641,0.11425570916353872,Bacillus pumilus,NADPH + O2 + H+ + SALC <=> H2O + NADP + Gentisate
+rxn01363,1.0,0.17679558011049726,0.0636942982963777,Bacillus pumilus,NAD + Quinate <=> NADH + H+ + 5-Dehydroquinate
+rxn07523,1.0,0.17679558011049726,0.056991409316933736,Bacillus pumilus,NADH + O2 + H+ + SALC <=> H2O + NAD + Gentisate
+rxn35596,1.0,0.13812154696132595,0.05355578240306391,Bacillus pumilus,Quinate + Ubiquinone-8 --> 5-Dehydroquinate + Ubiquinol-8
+rxn04661,1.0,0.13812154696132595,0.04903089658678342,Bacillus pumilus,NADP + Quinate <=> NADPH + H+ + 5-Dehydroquinate
+rxn23730,1.0,0.972644376899696,0.13285515637801876,Haemophilus influenzae,H+ + 6.0 Glycolate --> 4.0 H2O + 2.0 CO2 + Acetate + 2.0 Succinate
+rxn01748,1.0,0.972644376899696,0.13285515637801876,Haemophilus influenzae,H2O + Allantoin <=> Allantoate
+rxn09402,0.9726022913256955,0.9711082785894041,0.10240838845097347,Haemophilus influenzae,2-Methylcitrate <=> Pyruvate + Succinate
+rxn00679,0.9726022913256955,0.9711082785894041,0.10240838845097347,Haemophilus influenzae,H2O + Oxaloacetate + Propionyl-CoA --> CoA + H+ + 2-Methylcitrate
+rxn00663,0.9726022913256955,0.9711082785894041,0.10240838845097347,Haemophilus influenzae,CoA + 2.0 H+ + beta-Alanine <=> H2O + beta-Alanyl-CoA
+rxn01522,1.0,0.9696048632218844,0.0976223975466577,Haemophilus influenzae,H2O + NAD + XAN --> NADH + H+ + Urate
+rxn09370,1.0,0.9696048632218844,0.09739934567717372,Haemophilus influenzae,2.0 H2O + O2 + Urate <=> CO2 + H2O2 + H+ + Allantoin
+rxn21286,0.9715518999388213,0.9342419191423996,0.08673390046705941,Haemophilus influenzae,2.0 H2O + Acrylyl-CoA --> CoA + 2.0 H+ + Hydracrylic acid
+rxn05316,1.0,0.9270516717325228,0.08196590336758502,Haemophilus influenzae,H+ + Inosine <=> H+ + Inosine
+rxn00949,0.9422492401215805,0.9422492401215805,0.07833608070221923,Haemophilus influenzae,H2O + Homocysteine <=> NH3 + H+ + 2-Oxobutyrate + H2S
+rxn00541,1.0,0.9533333333333334,0.2762244306637863,Corynebacterium efficiens,L-Threonine <=> Glycine + Acetaldehyde
+rxn04783,1.0,0.6733333333333333,0.12132568846201053,Corynebacterium efficiens,ATP + Formate + GAR --> ADP + Phosphate + H+ + N-Formyl-GAR
+rxn00429,1.0,0.52,0.10356867055770223,Corynebacterium efficiens,H2O + NAD + Formaldehyde <=> NADH + Formate + 2.0 H+
+rxn01825,1.0,0.4933333333333334,0.07868425496468986,Corynebacterium efficiens,O2 + Homogentisate <=> H+ + 4-Maleylacetoacetate
+rxn02276,1.0,0.4933333333333334,0.07868425496468986,Corynebacterium efficiens,4-Maleylacetoacetate <=> Fumarylacetoacetate
+rxn00993,1.0,0.4933333333333334,0.07868425496468986,Corynebacterium efficiens,H+ + Fumarate + Acetoacetate <=> H2O + Fumarylacetoacetate
+rxn00690,1.0,0.4933333333333334,0.0679369494818103,Corynebacterium efficiens,ATP + Formate + Tetrahydrofolate <=> ADP + Phosphate + 10-Formyltetrahydrofolate
+rxn05488,1.0,0.44,0.05866106849098225,Corynebacterium efficiens,Acetate + H+ <=> Acetate + H+
+rxn00688,1.0,0.38666666666666666,0.05393120630872945,Corynebacterium efficiens,H2O + NADP + 10-Formyltetrahydrofolate <=> NADPH + CO2 + H+ + Tetrahydrofolate
+rxn01418,0.746606334841629,0.746606334841629,0.039551152383452484,Corynebacterium efficiens,NAD + CoA + H+ + 2-Oxoadipate <=> NADH + CO2 + Glutaryl-CoA
+rxn00663,0.9970234824339671,0.9939557178726317,0.16916839678414855,Streptococcus vestibularis,CoA + 2.0 H+ + beta-Alanine <=> H2O + beta-Alanyl-CoA
+rxn15500,1.0,0.9907692307692308,0.14580554868722612,Streptococcus vestibularis,O-Phospho-L-homoserine + Selenocysteine <=> Phosphate + Selenocystathionine
+rxn03374,1.0,0.9907692307692308,0.14580554868722612,Streptococcus vestibularis,H2O + Selenocystathionine <=> NH3 + 2-Oxobutyrate + Selenocysteine
+rxn00668,0.9969577549167361,0.9724172563341703,0.12570318523660198,Streptococcus vestibularis,NADPH + Acrylyl-CoA <=> NADP + Propionyl-CoA
+rxn12522,0.9866468842729971,0.9866468842729971,0.0952973095480576,Streptococcus vestibularis,H+ + 2-Oxobutyrate <=> H+ + 2-Oxobutyrate
+rxn00949,0.9866468842729971,0.9866468842729971,0.0952973095480576,Streptococcus vestibularis,H2O + Homocysteine <=> NH3 + H+ + 2-Oxobutyrate + H2S
+rxn00679,0.9964413590723444,0.8308787947957087,0.08302009154283732,Streptococcus vestibularis,H2O + Oxaloacetate + Propionyl-CoA --> CoA + H+ + 2-Methylcitrate
+rxn09402,0.9964413590723444,0.8308787947957087,0.08302009154283732,Streptococcus vestibularis,2-Methylcitrate <=> Pyruvate + Succinate
+rxn00128,0.996651417738213,0.8831864871034011,0.08110587929783653,Streptococcus vestibularis,S-Adenosyl-L-methionine <=> H+ + 5-Methylthioadenosine + 1-Aminocyclopropane-1-carboxylate
+rxn00738,0.996651417738213,0.8831864871034011,0.08110587929783653,Streptococcus vestibularis,H2O + 1-Aminocyclopropane-1-carboxylate <=> NH3 + 2-Oxobutyrate
+rxn23629,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,H2O + Maleylpyruvate --> Pyruvate + H+ + Fumarate
+rxn12298,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,NAD + Saligenin <=> NADH + H+ + Salicylaldehyde
+rxn01919,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,O2 + Gentisate <=> H+ + Maleylpyruvate
+rxn04455,0.8247269550021843,0.7344382197323374,0.17622492210556714,Listeria seeligeri,Chorismate <=> Pyruvate + SALC
+rxn10960,0.7468009230123767,0.5539993775287892,0.08425008939142246,Listeria seeligeri,Acetoacetate <=> Acetoacetate
+rxn05598,0.830021247344082,0.5167289137877373,0.07214007975502043,Listeria seeligeri,H2O + ATP + LACT --> ADP + Phosphate + H+ + LACT
+rxn00356,0.796148968061801,0.537270463741052,0.0719213817863983,Listeria seeligeri,D-Glucose + UDP-galactose <=> UDP + LACT
+rxn07524,0.8219603992799869,0.39083411142234675,0.04447089509295125,Listeria seeligeri,NADPH + O2 + H+ + SALC <=> H2O + NADP + Gentisate
+rxn21111,0.6286894923258559,0.4971988795518206,0.038162585700885814,Listeria seeligeri,H2O + Gentiobiose --> 2.0 beta-D-Glucose
+rxn29410,0.6286894923258559,0.4971988795518206,0.038162585700885814,Listeria seeligeri,Gentiobiose <=> Gentiobiose
