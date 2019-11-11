@@ -1,7 +1,7 @@
 Project summary
 ~~~~~~~~~~~~~~~
 
-This repository holds all code and data for "Guiding the refinement of biochemical knowledgebases with ensembles of metabolic networks and machine learning", Medlock & Papin, bioRxiv 2018, currently in press at Cell Systems. Description of all analyses contained in this repository are expanded upon in the manuscript.
+This repository holds all code and data for "Guiding the refinement of biochemical knowledgebases with ensembles of metabolic networks and machine learning", Medlock & Papin, bioRxiv 2018, currently in press at Cell Systems. The manuscript and the accompanying code describe **A**\utomated **M**\etabolic **M**\odel **E**\nsemble-**D**\riven **E**\limination of **U**\ncertainty with **S**\tatistical learning (**AMMEDEUS**). Description of all analyses contained in this repository are expanded upon in the manuscript.
 
 Our goal was to develop a system for guiding the curation of genome-scale metabolic network reconstructions (GENREs) by harnessing the variability across ensembles of GENREs. We generated ensembles of GENREs consistent with experimental data, performed gene essentiality simulations with those ensembles, and applied machine learning to identify differences between networks that are associated with differences in simulated gene essentiality. We applied this approach to 29 bacterial species with suitable genomic and phenotypic data available, generating prioritized curation targets for all species. We summarize these findings across all 29 species to identify reactions and subsystems in the biochemical database used in the study that, if curated, would substantially reduce uncertainty in gene essentiality simulations for many organisms.
 
